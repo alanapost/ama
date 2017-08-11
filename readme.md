@@ -16,3 +16,4 @@ Personal, work, whatever.
 
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [Scott Hanselman's AMA](https://github.com/shanselman/ama)
